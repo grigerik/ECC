@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+__author__ = "grigerik"
 
 class ECurve(object):
     # класс эллиптической кривой над полем простого числа
